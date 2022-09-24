@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="92.46106mm"
-   height="52.283852mm"
-   viewBox="0 0 92.46106 52.283852"
+   width="83.373322mm"
+   height="54.487415mm"
+   viewBox="0 0 83.373322 54.487416"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="logo_2.pdf"
+   sodipodi:docname="logo_2.svg"
    inkscape:export-filename="logo_2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.3055638"
-     inkscape:cx="85.403717"
-     inkscape:cy="62.808115"
+     inkscape:zoom="4.0848591"
+     inkscape:cx="90.088787"
+     inkscape:cy="160.34825"
      inkscape:window-width="1440"
      inkscape:window-height="872"
      inkscape:window-x="0"
@@ -103,17 +103,10 @@
                id="rect3264-7-7-1"
                width="16.9408"
                height="16.9408"
-               x="62.708862"
-               y="108.96043"
-               rx="1.1" />
-            <rect
-               style="fill:#debc19;fill-opacity:1;stroke:#debc19;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-               id="rect6696-0"
-               width="4.7618484"
-               height="118.62319"
-               x="68.815956"
-               y="116.3241"
-               rx="0" />
+               x="226.16913"
+               y="58.497005"
+               rx="1.1"
+               transform="rotate(56.72221)" />
             <rect
                style="fill:#debc19;fill-opacity:1;stroke:#debc19;stroke-width:2.95294;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect6696"
